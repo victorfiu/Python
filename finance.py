@@ -7,7 +7,7 @@ print ("Insira o valor das parcelas abaixo. Ex.: 500 (arredondado sem virgulas)"
 x = int(input ("valor das parcelas: "))
 print ("Insira a taxa de juros abaixo. Ex.: 144 (sem virgulas para 1,44%)")
 y = int(input ("taxa de juros: "))
-print ("Insira o numero de parcelas abaixo, Ex.: 60")
+print ("Insira o numero de parcelas abaixo. Ex.: 60")
 z = int(input ("número de parcelas: "))
 k = 0 #Valor inicial do k, pois na expressao ha uma iteracao dele para obter a soma das ultimas parcelas
 q = z/2 #limitacao da parcela antecipada
