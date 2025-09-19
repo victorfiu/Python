@@ -21,6 +21,7 @@ v = round(k,2)
 g = u-f
 h = round(g,2)
 print (u, "Valor total pago (sem considerar IOF na base de calculos)")
-print (v, "Soma da metade das parcelas totais antecipadas com o desconto (economizado)")
+print (v, "Soma da metade das parcelas totais antecipadas com o desconto (parte que gera a economia)")
 print (h, "Juros em cima do valor financiado")
+
 
