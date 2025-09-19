@@ -20,6 +20,7 @@ u = round(t,2)
 v = round(k,2)
 g = u-f
 h = round(g,2)
-print (u, "valor total final (sem considerar IOF na base de calculos)")
-print (v, "soma da metade das parcelas totais antecipadas com o desconto")
-print (h, "juros em cima do valor financiado")
+print (u, "Valor total pago (sem considerar IOF na base de calculos)")
+print (v, "Soma da metade das parcelas totais antecipadas com o desconto (economizado)")
+print (h, "Juros em cima do valor financiado")
+
